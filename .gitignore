@@ -9,6 +9,5 @@
 *.tar.gz
 *.rar
 *.sln.DotSettings.user
-*.csproj
 *.csproj.user
 npm-debug.log
